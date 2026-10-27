@@ -1,7 +1,6 @@
 ﻿
 using InterfaceApp;
 using InterfaceApp.Interfaces;
-using System.Net.NetworkInformation;
 
 var program1 = new Program1();
 var program2 = new Program2();
